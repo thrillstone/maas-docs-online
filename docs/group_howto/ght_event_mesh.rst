@@ -70,7 +70,7 @@ and receive the messages in another where you have a matching subscription. Foll
 
 .. image:: ../img/eventmesh9.jpg
 
-6. From the **Local Message VPN** section, choose the message VPN from your local messaging service. From the **Remote Message VPN** choose the remote messaging service to connect to. Press the **Remote Connection Setup** button.
+6. From the **Local Message VPN** section, choose the message VPN from your local messaging service. From the **Remote Message Service** choose the remote messaging service to connect to. Press the **Remote Connection Setup** button.
 
 .. image:: ../img/eventmesh10.jpg
 
