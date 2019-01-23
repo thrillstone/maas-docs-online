@@ -74,7 +74,7 @@ and receive the messages in another where you have a matching subscription. Foll
 
 .. image:: ../img/eventmesh10.jpg
 
-7. Return back to the PubSub+ Cloud application. Open up the remote messaging service in the **Event Mesh** view and expand the **Cluster Details**. Take note of the **Cluster Password**.
+7. Now you need the required cluster passwords to continue. Return back to the PubSub+ Cloud application. Open up the remote messaging service in the **Event Mesh** view and expand the **Cluster Details**. Take note of the **Cluster Password**.
 
 .. image:: ../img/eventmesh12.jpg
 
@@ -82,7 +82,7 @@ and receive the messages in another where you have a matching subscription. Foll
 
 .. image:: ../img/eventmesh11.jpg
 
-9. Enter the **Remote and Local Cluster Passwords** as noted in the previous steps. Select the switch to enable TLS. Add a common name equal to the hostname of your remote messaging service.
+9. Enter the **Remote and Local Cluster Passwords** as noted in the previous steps. Select the switch to enable TLS. Add a common name equal to the hostname of your remote messaging service. You can find the hostname in the **Connect** tab of your service details.
 
 .. image:: ../img/eventmesh13.jpg
 
